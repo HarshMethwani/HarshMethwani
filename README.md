@@ -36,7 +36,7 @@ Final Year Undergraduate at **IIT Kanpur** | Passionate about building scalable 
 🔹 **[Full-Stack Development & DevOps](https://github.com/HarshMethwani/CS455-IITK)**
 - Worked on **CI/CD, test automation, and scalable software architectures** in an Agile environment.
 
-🔹 **Fine-Tuning CodeBERT for Smart Contract Analysis**
+🔹 **[Fine-Tuning CodeBERT for Smart Contract Analysis](https://github.com/HarshMethwani/Vuln-Detector)**
 - Implemented a **text-to-text transformer model** to detect vulnerabilities like **re-entrancy** in smart contracts.
 
 ---
