@@ -1,6 +1,6 @@
 ### Hi, I'm Harsh 👋
 
-AI & Full-Stack Developer
+AI & Full-Stack Engineer
 
 Building intelligent systems and scalable web applications.
 
