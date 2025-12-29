@@ -1,12 +1,12 @@
 ### Hi, I'm Harsh 👋
 
-AI Engineer | Full-Stack Developer
+AI & Full-Stack Developer
 
 Building intelligent systems and scalable web applications.
 
 **Tech Stack**
 
-`Python` `TypeScript` `React` `Node.js` `PyTorch` `TensorFlow` `Docker`
+`Python` `TypeScript` `React` `Node.js`  `TensorFlow` `Docker`
 
 **What I Do**
 - Develop ML models for real-world applications
